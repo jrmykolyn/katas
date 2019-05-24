@@ -1,0 +1,4 @@
+[
+  { "team": "Toronto Maple Leafs", "goalsFor": 10, "goalsAgainst": 20 },
+  { "team": "Montreal Canadians", "goalsFor": 12, "goalsAgainst": 30 }
+]
